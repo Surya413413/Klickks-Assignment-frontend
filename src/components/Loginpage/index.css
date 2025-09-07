@@ -125,7 +125,7 @@
 
 .emailfiledrender{
     margin: 10px;
-      width: 500px;
+  
 }
 
 .passwordfiledrender{
@@ -269,7 +269,3 @@ height: 64px;
   stroke: #ffffff !important;
 }
 
-.formcss{
- 
-  width: 500px;
-}
