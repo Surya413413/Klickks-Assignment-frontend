@@ -108,8 +108,8 @@ renderpasswordfiled = () => {
   <input id="pwd" type="password" placeholder="Password" required className="field__input" onChange={this.onChangepassword} value={password}/>
 
   <button type="button" className="field__toggle" aria-label="Show password" aria-controls="pwd" aria-pressed="false">
-    <Eye className="field__toggle-svg field__toggle--show"/>
-    <EyeOff className="field__toggle-svg field__toggle--hide"/>
+    <Eye className="field__toggle_svg field__toggle--show"/>
+    <EyeOff className="field__toggle_svg field__toggle--hide"/>
   </button>
 </div>
 
