@@ -117,8 +117,8 @@ Content-Type: application/json
 
 {
   "name": "suresh",
-  "email": "sureshnayak6695.com",
-  "password": "password123"
+    "email": "sureshnayak6695@gmail.com",
+    "password": "Surya@413"
 }
 ```
 
@@ -132,8 +132,9 @@ POST /login
 Content-Type: application/json
 
 {
-  "email": "sureshnayak6695.com",
-  "password": "password123"
+
+    "email": "sureshnayak6695@gmail.com",
+    "password": "Surya@413"
 }
 ```
 
